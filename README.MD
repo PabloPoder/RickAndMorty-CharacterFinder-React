@@ -19,7 +19,7 @@ https://rickandmortyapi.com/
 
 ✅ - Hacer que los personajes se muestren en un grid responsive.
 
-# Primera iteración:
+Primera iteración:
 
 ✅ - Evitar que se realice la misma búsqueda dos veces seguidas.
 
