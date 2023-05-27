@@ -1,0 +1,49 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.characters {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  display: grid;
+  gap: 32px;
+  width: 100%;
+  margin-top: 32px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.character {
+  text-align: center;
+}
+
+.character p{
+  margin: 4px;
+}
+
+.character img{
+  border-radius: 5px;
+}
+
+.not-found {
+  margin-top: 2rem;
+}
+
+.not-found img{
+  border-radius: 10px;
+}
+
+.not-found h3 {
+  font-weight: bold;
+  color: cyan;
+}
