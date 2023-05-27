@@ -33,7 +33,7 @@ https://rickandmortyapi.com/
 - Cree la estructura html de la pagina principal (main, h1, form, input, button).
 - Cree un mock con los resultados de la api.
 - Cree el componente Characters el cual renderiza la lista o un mensaje dependiendo de si la lista esta vacia a o no.
-- Agregue mas datos para mostrar como la especia y el lugar de origen del personaje.
+- Agregue mas datos para mostrar como: la especia y el lugar de origen del personaje.
 - Mappee la infomarcion de json para gaurdarla como a mi me intersa. De esta forma la UI no queda anclada a la API.
 - Cree un estado para la validacion del formulario. El valor del estado lo seteo en value del input. Creo handleChange y handle Sumbmit. handleChange se encarga de no permitir empezar con espacio vacio.
 - Cree un custom hook para las validaciones del input.
@@ -42,4 +42,4 @@ https://rickandmortyapi.com/
 - Desde el custom hook useCharcters llame al servicio y actualice el estado.
 - Cree dos estados nuevos para el custom hook de charactes, loading y error.
 - Cree otro useRef para ver si se esta buscando con la misma query (dos veces la misma peticion). Si es asi entonces no la hago.
-- Agregue un estado para el sort y agretgue el useMemo al custom hook para que no se ejecute nuevamente sortedCharacters
+- Agregue un estado para el sort y agregue el useMemo al custom hook para que sortedCharacters no se ejecute nuevamente.
