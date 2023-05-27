@@ -1,4 +1,4 @@
-# RICK AND MORTY: CHARACTER FINDER - useState, useEffect y mas ⚛️
+# RICK AND MORTY: CHARACTER FINDER - useState, useEffect ⚛️
 
 Este proyecto lo hice como ejercicio práctico para familiarizarme con el uso de useState, useEffect, custom hooks y otros componentes y funciones utiles en React.
 
