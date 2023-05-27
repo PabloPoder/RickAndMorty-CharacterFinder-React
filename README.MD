@@ -2,7 +2,7 @@
 
 Este proyecto lo hice como ejercicio práctico para familiarizarme con el uso de useState, useEffect, custom hooks y otros componentes y funciones utiles en React.
 
-# Visitar página:
+# Visitar página: 👀
 
 - https://rickandmortycharacterfinder.surge.sh
 
