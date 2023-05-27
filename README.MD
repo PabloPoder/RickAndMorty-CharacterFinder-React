@@ -1,25 +1,31 @@
 # RICK AND MORTY: CHARACTER FINDER - useState, useEffect ⚛️
-
 Este proyecto lo hice como ejercicio práctico para familiarizarme con el uso de useState, useEffect, custom hooks y otros componentes y funciones utiles en React.
 
 # Visitar página: 👀
-
-- https://rickandmortycharacterfinder.surge.sh
+https://rickandmortycharacterfinder.surge.sh
 
 # API: 👨🏻‍💻
-- https://rickandmortyapi.com/
+https://rickandmortyapi.com/
 
 
 # Lista de características a desarrollar: 📝 
-✅ - Mostrar un input para buscar la pelicula y un boton para buscar. (el boton fue eliminado ya que la busqueda se convirto en automatica)
+
+✅ - Mostrar un input para buscar la pelicula y un boton para buscar. (el boton fue eliminado ya que la busqueda se convirto en automatica).
+
 ✅ - Lista los personajes encontradas y muestra el nombre, especie e imagen.
+
 ✅ - Hacer validacion de formulario.
+
 ✅ - Hacer fetch de datos.
+
 ✅ - Haz que los personajes se muestren en un grid responsive.
 
-Primera iteracion:
+- Primera iteracion:
+
 ✅ - Evitar que se haga la misma busqueda dos veces seguidas.
+
 ✅ - Haz que la busqueda se hada automaticamente al escribir.
+
 ✅ - Evita que se haga la busqueda continuamente al escribir (debounce).
 
 
