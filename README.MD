@@ -11,8 +11,6 @@ Este proyecto lo hice como ejercicio práctico para familiarizarme con el uso de
 
 
 # Lista de características a desarrollar: 📝 
-
-Requisitos:
 ✅ - Mostrar un input para buscar la pelicula y un boton para buscar. (el boton fue eliminado ya que la busqueda se convirto en automatica)
 ✅ - Lista los personajes encontradas y muestra el nombre, especie e imagen.
 ✅ - Hacer validacion de formulario.
