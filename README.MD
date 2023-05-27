@@ -4,7 +4,7 @@ Este proyecto lo hice como ejercicio práctico para familiarizarme con el uso de
 
 # Visitar página:
 
-
+- https://rickandmortycharacterfinder.surge.sh
 
 # API: 👨🏻‍💻
 - https://rickandmortyapi.com/
