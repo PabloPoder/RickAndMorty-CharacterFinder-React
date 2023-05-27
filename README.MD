@@ -28,7 +28,7 @@ https://rickandmortyapi.com/
 ✅ - Evitar que se realice la búsqueda continuamente al escribir (debounce).
 
 
-Pasos que seguí para el desarrollo: 🧩
+# Pasos que seguí para el desarrollo: 🧩
 
 1. Creé la estructura HTML de la página principal (main, h1, form, input, button).
 2. Creé un mock con los resultados de la API.
