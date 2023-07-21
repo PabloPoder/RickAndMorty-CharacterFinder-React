@@ -1,4 +1,5 @@
 # RICK AND MORTY: CHARACTER FINDER - useState, useEffect ⚛️
+Busca cualquier personaje de la serie Rick y Morty!
 Este proyecto lo hice como ejercicio práctico para familiarizarme con el uso de useState, useEffect, custom hooks y otros componentes y funciones utiles en React.
 
 ![Alt text](image.png)
